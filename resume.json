@@ -1,0 +1,205 @@
+{
+  "headline": "Vishnu Bajpai — MarTech Project Manager | CRM | Growth Strategy | Data‑Driven Execution",
+  "summary": "MarTech Project Manager with 5 years of experience leading end-to-end CRM, marketing automation, and customer engagement initiatives in fast-paced tech firms.",
+  "availability": "Can join within 30 days",
+  "preferred locations": [
+    "Delhi NCR",
+    "Bengaluru",
+    "Pune"
+  ],
+  "contact": {
+    "email": "vishnubajpai30@gmail.com",
+    "phone": "+919953338180",
+    "linkedin": "https://www.linkedin.com/in/vishnu-bajpai"
+  },
+  "snapshot": {
+   "rich": "Hello! I’ve created this chatbot to help recruiters learn more about me. On the left, you’ll find an “Ask” section and a set of frequently asked questions, each with options for both short and detailed answers.\n\n𝗔𝗯𝗼𝘂𝘁 𝗺𝗲:\nAgile Project Manager & CRM Strategy Professional with 5 years of experience driving lifecycle marketing, automation, and data-led growth across global MarTech ecosystems.\n\n📊 Expertise in:\n• Project & Program Management – Agile delivery, CCPM, RAID, MoSCoW, RACI\n• CRM & Lifecycle Optimization – Braze, Salesforce, MoEngage, Clevertap\n• Marketing Automation & Growth – Retention, funnel optimization, ROI tracking\n• Analytics & Forecasting – KPI dashboards, performance insights, forecasting accuracy\n\n🎯 Highlights:\n• Improved delivery cadence by 18% through structured Agile governance\n• Reduced CAC by 12%, improved CLV by 8%, boosted lead conversions by 20%\n• Scaled automation programs driving 5% incremental revenue and 95%+ milestone adherence\n\n🧠 Certifications:\nBraze Certified Digital Strategist | Professional Scrum Master II (PSM II)\n\n💡 Passionate about building data-driven engagement ecosystems at the intersection of CRM innovation, Agile delivery, and measurable business impact."
+  },
+  "faq_groups": [
+    {
+      "title": "Project Management",
+      "items": [
+        {
+          "q": "How do you ensure project deliverability?",
+          "a_short": "Agile ceremonies, RAID tracking, clear RACI, and weekly exec updates to keep scope, timeline, and risks under control.",
+          "a_long": "Deliverability starts with transparency and ownership: I run sprint planning, daily stand-ups, and retros; maintain a RAID log with owners, due dates, and mitigations; use RACI to clarify who does what; and publish a concise weekly update (progress, KPIs, risks, decisions needed). Combined with milestone gating and QA sign-offs, this keeps delivery predictable and on time."
+        },
+        {
+          "q": "How do you prioritize roadmaps under constraints?",
+          "a_short": "MoSCoW with impact/effort and capacity planning; protect QA and analytics time; revisit priorities every sprint.",
+          "a_long": "I use MoSCoW to classify scope, then apply an impact–effort–confidence score to sort work. Capacity planning and dependency mapping ensure realism. I protect QA, analytics, and compliance time boxes, and review priorities at sprint boundaries. This balances business outcomes, risk, and feasibility without burning the team."
+        },
+        {
+          "q": "What is your approach to Agile governance?",
+          "a_short": "Definition of Ready/Done, velocity tracking, visual dashboards, and decision logs to reduce churn.",
+          "a_long": "I keep a clean backlog with Definition of Ready/Done, estimate collaboratively, and track velocity and carryover. Dashboards show throughput, blockers, and risk posture. A decision log records agreements and trade-offs so we do not re-debate. Retros drive incremental process improvements every sprint."
+        },
+        {
+          "q": "How do you manage risks and dependencies?",
+          "a_short": "Structured RAID with owners and due dates, weekly reviews, and early escalation paths.",
+          "a_long": "Each risk/dependency has a probability, impact, owner, mitigation, and date. I review RAID weekly with stakeholders, surface theme-level risks to leadership early, and set explicit escalation paths. Visualizing critical path tasks helps preempt slippage and protects go-live dates."
+        },
+        {
+          "q": "What does a good go-live plan look like?",
+          "a_short": "Cutover checklist, rollback plan, monitoring, and war-room comms for the first 24–72 hours.",
+          "a_long": "A go-live plan includes readiness gates (QA, security, data checks), a time-boxed cutover with owners, a tested rollback path, and observability (alerts on errors, latency, send failures, data drift). A war-room channel coordinates response for 24–72 hours with SLAs, incident roles, and daily stability updates."
+        },
+        {
+          "q": "What would you focus on in your first 90 days?",
+          "a_short": "Audit data and journeys, stabilize tooling, ship quick wins, align a two-quarter roadmap with KPIs.",
+          "a_long": "Phase 1: audit event quality, CRM config, and active journeys; map stakeholders and pain points. Phase 2: fix template debt, QA gaps, and monitoring; create a shared KPI dashboard. Phase 3: ship 1–2 high-leverage wins (onboarding, win-back), then align a two-quarter roadmap tied to north-star metrics."
+        }
+      ]
+    },
+    {
+      "title": "CRM & Lifecycle",
+      "items": [
+        {
+          "q": "How do you design lifecycle journeys end to end?",
+          "a_short": "Map stages, align event schema, segment cohorts, define triggers/content, attach KPIs, and iterate via experiments.",
+          "a_long": "I map stages (onboard → activate → engage → retain → win-back), define event and attribute schema with data teams, and build behavioral cohorts. Journeys use timely triggers and modular content blocks. Each has KPIs (activation, retention, revenue contribution) and test plans for message, cadence, channel, and audience."
+        },
+        {
+          "q": "How do you improve message performance at scale?",
+          "a_short": "Behavioral triggers, send-time testing, template hygiene, frequency caps, and suppression controls.",
+          "a_long": "I prefer event-based triggers over batch sends, test subject lines and timing, maintain responsive templates, and enforce frequency caps and fatigue rules. I build negative audiences (recent converters, unsub risk) and measure incremental lift to avoid vanity metrics. Governance prevents overlap and message collisions."
+        },
+        {
+          "q": "Which KPIs do you typically own or influence?",
+          "a_short": "Activation, retention (D1/D7/D30), CTR/CVR, DAU/WAU/MAU, NPS/CSAT, LTV, CAC, ROI, and revenue contribution.",
+          "a_long": "I focus on acquisition quality to activation, retention cohorts (D1/D7/D30), CTR and conversion, DAU/WAU/MAU, NPS/CSAT, and revenue contribution. Efficiency KPIs include LTV, CAC, and ROI. I report with cohort and funnel cuts to explain not only what changed, but why."
+        },
+        {
+          "q": "How do you use attribution data in CRM?",
+          "a_short": "Join AppsFlyer/Firebase source data with product events to tailor journeys and measure cohort ROI.",
+          "a_long": "I combine source, campaign, and creative from AppsFlyer/Firebase with user attributes and product events. Journeys and suppressions account for source quality and stage. I track retention, LTV, and conversion by source and creative cohort to inform spend and creative strategy."
+        },
+        {
+          "q": "How do you measure true lift versus correlation?",
+          "a_short": "Holdout/control groups, geo/time splits, and minimum sample sizes before reading results.",
+          "a_long": "I use control/holdout and geo/time-based experiments with pre-registered hypotheses, power calculations, and fixed run windows. I avoid peeking and overlapping tests. Primary metrics are defined upfront with guardrails (unsub, spam, fatigue). Post-analysis is documented with next steps."
+        },
+        {
+          "q": "How do you prevent over-messaging and fatigue?",
+          "a_short": "Global frequency caps, recency rules, priority tiers, and fatigue scoring.",
+          "a_long": "I set global caps by user and channel, apply recency windows, and build a message priority framework (transactional > lifecycle > promos). Fatigue scoring suppresses users showing negative signals (unsubs, low opens, short sessions). A collision manager avoids multiple sends within short windows."
+        },
+        {
+          "q": "How do you set up event taxonomy and naming?",
+          "a_short": "Consistent verbs/nouns, required properties, and governance with linting and backfill rules.",
+          "a_long": "I define a naming scheme (verb_object), required properties, and data types with examples. A linting checklist blocks non-conforming events. For legacy events, I map, backfill where feasible, and mark deprecations with dates. Versioning and owners keep taxonomy healthy."
+        },
+        {
+          "q": "Have you led CRM implementation or migration?",
+          "a_short": "Yes—taxonomy, templates, QA/staging, phased rollouts, rollback plans, and monitoring dashboards.",
+          "a_long": "I’ve run implementations on Braze and MoEngage: define taxonomy, build modular templates, set staging and QA harnesses, integrate attribution and product data, and do phased rollouts with rollback. Observability (send errors, latency, data drift) ensures stability and scale."
+        }
+      ]
+    },
+    {
+      "title": "Experience & Impact",
+      "items": [
+        {
+          "q": "What business impact have you delivered?",
+          "a_short": "Retention +5–8%, NPS +10%, leads +30%, conversions +20%, CAC −12%, ROI +20%.",
+          "a_long": "I improved retention by 5–8% and NPS by ~10% via lifecycle automation; grew leads by ~30% and MQL→SQL conversions by ~20% using behavioral targeting; reduced CAC by ~12% through funnel and creative optimization; and drove ~20% ROI improvement with dashboards and disciplined testing."
+        },
+        {
+          "q": "Which industries have you worked in?",
+          "a_short": "Health & wellness retail, sports & entertainment, automotive services, QSR, home services, beauty, fintech/BNPL, banking, martech/consulting, proptech, faith-tech, IT services.",
+          "a_long": "My experience spans health and wellness retail, sports and entertainment, automotive services/car care, quick-service restaurants, home services and trades, beauty/cosmetics, fintech (BNPL), banking and financial services, martech and consulting, proptech/real estate, faith-tech consumer apps, and IT services."
+        },
+        {
+          "q": "What notable achievements can you highlight?",
+          "a_short": "95%+ milestone adherence, 10% delay reduction, 10% DAU lift, 30k daily acquisitions within budget.",
+          "a_long": "I sustained 95%+ milestone adherence using Agile governance, reduced delays ~10% with standardized intake/forecasting, scaled DAU 10% through lifecycle and product tweaks, and partnered on campaigns that achieved ~30k daily acquisitions within budget envelopes."
+        },
+        {
+          "q": "What scale of programs have you managed?",
+          "a_short": "Multi-channel journeys across millions of users with strict QA, consent, and monitoring.",
+          "a_long": "I’ve managed journeys spanning onboarding, activation, re-engagement, and win-back across large mobile and web audiences. Programs included complex segmentation, dynamic content, rate limits, and consent enforcement, supported by QA checklists, canary launches, and 24–72h hyper-care."
+        },
+        {
+          "q": "What is your reporting and cadence with leadership?",
+          "a_short": "Weekly narrative, KPI dashboard, risk/decision register, and quarterly strategy reviews.",
+          "a_long": "I send a weekly one-pager (progress, KPIs, risks, asks), maintain a living dashboard for execs, and keep a decision log. Quarterly reviews revisit north-star metrics, roadmap performance, and investment trade-offs."
+        },
+        {
+          "q": "Do you work with data warehouses and CDPs?",
+          "a_short": "Yes—Snowflake/BigQuery + reverse ETL/CDP for enrichment and profile unification.",
+          "a_long": "I partner with data teams to model events and attributes in Snowflake/BigQuery, use reverse-ETL or a CDP for profile syncs and trait computation, and push curated attributes into CRM for targeting and measurement. Governance covers freshness, schema changes, and PII handling."
+        }
+      ]
+    },
+    {
+      "title": "Generic Profile",
+      "items": [
+        {
+          "q": "What roles are you targeting now?",
+          "a_short": "MarTech/CRM leadership, Growth/Strategy, and Founder’s or CXO Office roles.",
+          "a_long": "I’m exploring MarTech and CRM leadership roles, generalist growth/strategy positions, and Founder’s/CXO Office opportunities where I can bridge product, marketing, and data to deliver measurable outcomes."
+        },
+        {
+          "q": "Which platforms and tools are you strongest in?",
+          "a_short": "Braze, MoEngage, Clevertap, Salesforce, HubSpot, AppsFlyer, Firebase, GA, Metabase, Kibana, Tableau.",
+          "a_long": "CRM/Automation: Braze, MoEngage, Clevertap, Salesforce, HubSpot. Attribution/Mobile: AppsFlyer, Firebase. Analytics/BI: Google Analytics, Metabase, Kibana, Tableau, plus Excel. Delivery/Governance: JIRA, Asana, Agile rituals, RAID/RACI/MoSCoW."
+        },
+        {
+          "q": "How do you collaborate with cross-functional teams?",
+          "a_short": "Structured sprints, shared dashboards, clear SLAs/owners, and weekly syncs.",
+          "a_long": "I co-create scope with product and data, align ownership and SLAs, visualize progress and KPIs on shared dashboards, and use weekly syncs to manage dependencies. A clear RACI plus decision logs minimizes churn and surprises."
+        },
+        {
+          "q": "How do you handle privacy, consent, and compliance?",
+          "a_short": "Consent gating, preference centers, data minimization, and audit trails.",
+          "a_long": "I integrate consent flags at profile and event levels, enforce preference center choices across channels, minimize PII in payloads, and ensure suppression in analytics/exports. Access control, retention rules, and audit logs are part of BAU hygiene."
+        },
+        {
+          "q": "How do you approach onboarding optimization?",
+          "a_short": "Identify activation moments, reduce friction, and trigger timely nudges with clear value.",
+          "a_long": "I map the activation event(s), analyze where users drop, and address friction (content, UX, timing). I use progressive profiling and timely nudges based on demonstrated intent. Experiments target first-session depth, second-day return, and time-to-value."
+        },
+        {
+          "q": "What is your availability and location preference?",
+          "a_short": "Available within 30 days; preferred locations: Delhi NCR, Bengaluru, Pune.",
+          "a_long": "I can join within a standard 30-day window. Preferred locations include Delhi NCR, Bengaluru, and Pune, with flexibility for hybrid or remote depending on role requirements."
+        }
+      ]
+    },
+    {
+      "title": "Behavioral & Ways of Working",
+      "items": [
+        {
+          "q": "How do you handle tight deadlines or changing priorities?",
+          "a_short": "Impact-first replanning, owner realignment, early comms on trade-offs, and time-boxed experiments.",
+          "a_long": "I reassess scope by impact/effort, update sprint goals, and reassign owners as needed. I communicate trade-offs and risks early, protect QA windows, and time-box experiments so we keep momentum without sacrificing quality."
+        },
+        {
+          "q": "Describe a time you unblocked a major risk.",
+          "a_short": "Standardized intake and weekly RAID reviews, cutting delays by ~10% and sustaining 95%+ adherence.",
+          "a_long": "By implementing standardized intake, Definition of Ready/Done, and weekly RAID, we surfaced dependencies early and assigned clear owners. This reduced delays by ~10%, improved predictability, and increased stakeholder confidence."
+        },
+        {
+          "q": "What is your leadership and mentoring style?",
+          "a_short": "Clarity, empowerment, and continuous feedback; mentored CRM execs who progressed to larger roles.",
+          "a_long": "I set clear goals, unblock proactively, and give timely, specific feedback. I coach for autonomy and decision-making. Several mentees have stepped into managerial roles, and squads report higher ownership and morale."
+        },
+        {
+          "q": "How do you communicate with executives?",
+          "a_short": "Succinct narrative, KPI dashboard, risks/asks, and options with trade-offs.",
+          "a_long": "I prefer a one-pager with progress, metrics, risks, and decisions needed. Where choices exist, I present options with costs/benefits and a recommendation. This keeps discussions focused and accelerates decisions."
+        },
+        {
+          "q": "How do you manage remote or distributed teams?",
+          "a_short": "Clear rituals, async updates, overlap hours, and written decisions.",
+          "a_long": "I set core overlap hours, run crisp rituals, and use async updates (docs, dashboards). Written decisions and action registers reduce ambiguity across time zones and create continuity if people are offline."
+        },
+        {
+          "q": "How do you handle conflict or misalignment?",
+          "a_short": "Clarify goals, surface constraints, propose options, and agree on a documented decision.",
+          "a_long": "I restate the shared goal, list constraints (legal, tech, timeline), and facilitate options with trade-offs. We document the decision and owners. If needed, I escalate early with context rather than surprises late in the cycle."
+        }
+      ]
+    }
+  ]
+}
